@@ -1,19 +1,19 @@
 ﻿# ANY_Spotify-Clone-Project
 
 
-# Spotify clone project, you can search all Spotify database, have fun with it. 
+ Spotify clone project, you can search all Spotify database, have fun with it. 
 
 
 
-# Technologies Used:
+ Technologies Used:
 
- # • HTML5, 
+  • HTML5, 
  
- # • CSS,
+  • CSS,
 
- # • SCSS,
+  • SCSS,
  
- # • JAVASCRIPT
+  • JAVASCRIPT
 
 
 
